@@ -1,4 +1,0 @@
-<html>
-<h1> Hello world! </h1>
-<p>¡Gracias GitHub!</p>
-</html>
